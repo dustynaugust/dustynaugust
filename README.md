@@ -1,6 +1,6 @@
 ### Hey there ✌🏻👽
 
-I’m Dustyn 👋🏻. I’m an iOS engineer passionate about iOS and Swift develpment.
+I’m Dustyn 👋🏻. I’ passionate about iOS and Swift engineering. 
 
 Outside of work I lift weights, learn languages (今日は！/ ¡Hola!), make music, and cook delicious food.
 
